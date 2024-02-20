@@ -1,4 +1,8 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
-  - ../../resources/sb-deploy.yml
+- ../../resources/sb-deploy.yml
+images:
+- name: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
+  newName: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
+  newTag: e43f9930cb6cf3e0d5a663a46fbe12af0ee33e51
