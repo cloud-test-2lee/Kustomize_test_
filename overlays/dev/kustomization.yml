@@ -6,6 +6,4 @@ images:
 - name: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
   newName: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
   newTag: 13494836b65b7e24611d760d2d5b5acc5feca7e0
-- name: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo:c444789308949fa50a3e02365db583e31511daa5
-  newName: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
-  newTag: 80819743bff8655cc0e716a0989908e8c41cce07
+
