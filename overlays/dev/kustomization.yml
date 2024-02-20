@@ -1,4 +1,4 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
-kind: Kutomization
+kind: Kustomization
 resources:
-  - sb-deploy.yml
+  - ../../resources/sb-deploy.yml
