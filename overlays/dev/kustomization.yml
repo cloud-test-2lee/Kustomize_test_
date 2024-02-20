@@ -5,4 +5,4 @@ resources:
 images:
 - name: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
   newName: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
-  newTag: c444789308949fa50a3e02365db583e31511daa5
+  newTag: 80819743bff8655cc0e716a0989908e8c41cce07
