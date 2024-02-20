@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
         - name: spring
-          image: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo:1.0.0
+          image: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo:c444789308949fa50a3e02365db583e31511daa5
