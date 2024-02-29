@@ -6,7 +6,7 @@ resources:
 images:
 - name: 236747833953.dkr.ecr.ap-northeast-2.amazonaws.com/lee-repo
   newName: 236747833953.dkr.ecr.ap-northeast-2.amazonaws.com/lee-repo
-  newTag: 60faf73b041adf2ba75e6bc5622250930a67bba1
+  newTag: c85cccc34dd2a150fad4f88e85f9e6da3bfada4c
 - name: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
   newName: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo
   newTag: 09e2a9287f1e30cdb7e0247db8d619089aa06647
