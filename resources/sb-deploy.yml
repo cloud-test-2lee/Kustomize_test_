@@ -31,3 +31,5 @@ spec:
       containers:
         - name: spring
           image: 759320821027.dkr.ecr.ap-northeast-2.amazonaws.com/ejl-repo:18
+      imagePullSecrets:
+        - name: regcred
