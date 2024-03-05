@@ -30,6 +30,6 @@ spec:
     spec:
       containers:
         - name: spring
-          image: 236747833953.dkr.ecr.ap-northeast-2.amazonaws.com/lee-repo:60faf73b041adf2ba75e6bc5622250930a67bba1
+          image: 236747833953.dkr.ecr.ap-northeast-2.amazonaws.com/lee-repo:c85cccc34dd2a150fad4f88e85f9e6da3bfada4c
       imagePullSecrets:
         - name: regcred
